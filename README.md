@@ -23,7 +23,7 @@ Atualmente o projeto encontra-se em fase de expansão de funcionalidades e melho
 2. server-discovery
 3. gateway
 4. product-catalog
-5. shopping-cart
+5. shopping-carts
 
 
 ##### Comando para inicializar cada microserviço:
