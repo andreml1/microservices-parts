@@ -4,7 +4,7 @@ Projeto em desenvolvimento para treinar criação de aplicação utilizando Spri
 
 Atualmente o projeto encontra-se em fase de expansão de funcionalidades e melhorias no código sendo executado pelo criador deste repositório.
 
-## Projeto em desenvolvimento com:
+### Projeto em desenvolvimento com:
 
 - Java 11
 - Spring Boot
